@@ -1,0 +1,7 @@
+/hw_node:
+  ros__parameters:
+    use_sim_time: false
+    wheel_base: 0.58
+    wheel_radius: 0.0825
+    max_speed: 1.0
+

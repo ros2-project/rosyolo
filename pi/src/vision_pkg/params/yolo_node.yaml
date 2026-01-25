@@ -1,0 +1,11 @@
+/yolo_node:
+  ros__parameters:
+    conf: 0.25
+    img: 480
+    iou: 0.45
+    skip: 5
+    timer: 0.1
+    use_sim_time: false
+    weights: /home/pi/pickachu/pick_ws/src/yolov5/best_0905.pt
+    
+
