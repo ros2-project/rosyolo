@@ -54,8 +54,7 @@ ROS2를 통해 STM32 제어 노드와 통신하여 로봇 주행을 제어하는
 - **Raspberry Pi**
   - ROS2 (Humble)
     - vision_node: 공을 인식하고 좌표와 크기를 토픽 발행
-    - twist_node: 좌표와 크기를 바탕으로 장치의 속도 토픽 발행
-    - hardware_node: stm32에 pwm 제어 명 전달
+    - twist_node: 좌표와 크기를 바탕으로 장치의 속도 토픽 발행령 전달
   - YOLOv5n
 
 - **STM32**
